@@ -10,7 +10,6 @@ Trading Strategies
 
 Key Features
 	•	Fibonacci Retracements: Dynamically adjusted retracements used in conjunction with a Market Regime Prediction model.
-	•	Neural Network: Trained on signals from Fibonacci models to enhance predictions.
 	•	Market Regime Model: Based on GARCH models and technical indicators to classify market conditions.
 	•	Risk Management: Incorporates covariance analysis and Value at Risk (VaR) models for effective risk control.
 
