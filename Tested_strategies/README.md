@@ -1,0 +1,1 @@
+This folder contains all the stratgies that have been built and tested so far.
